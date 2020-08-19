@@ -3,7 +3,7 @@
 #Email|Password
 
 from selenium import webdriver
-import time
+import time, os
 from selenium.webdriver.common.keys import Keys
 from colorama import Fore, Back, Style
 
